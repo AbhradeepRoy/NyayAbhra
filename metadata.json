@@ -1,0 +1,7 @@
+{
+  "name": "NyayAI",
+  "description": "An AI-powered legal and civic assistant for Indian citizens, providing simplified legal advice, government scheme information, and complaint drafting in multiple local languages.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
